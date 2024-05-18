@@ -1,0 +1,2 @@
+- Mini 'Book Store' project for midterm OOP exam at school.
+- Using completely 100% terminal interface to interact with.
